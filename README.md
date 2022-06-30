@@ -43,7 +43,8 @@
 
   Email: maxanoor@gmail.com
 
-  GitHub: https://github.com/MCX2code
+  GitHub: 
+  [![Use this template](https://img.shields.io/badge/Click-to_Main_GitHub_Page-85b6c0?style=for-the-badge)](https://github.com/MCX2code) 
 
   ## License
 
