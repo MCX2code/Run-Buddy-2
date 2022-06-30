@@ -18,10 +18,10 @@
 
   ## Installation
 
-  To run this on your own computer you can copy the repo at https://github.com/MCX2code/Run-Buddy-2. <br>
   Open the HTML file in default browser to see the webpage.
+  To run this on your own computer you can copy the repo at 
   
-  [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MCX2code/Run-Buddy-2)
+  [![Use this template](https://img.shields.io/badge/Click-to_visit_website-2ea44f?style=for-the-badge)](https://github.com/MCX2code/Run-Buddy-2)
 
   ## Usage 
 
