@@ -20,6 +20,8 @@
 
   To run this on your own computer you can copy the repo at https://github.com/MCX2code/Run-Buddy-2. <br>
   Open the HTML file in default browser to see the webpage.
+  
+  [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MCX2code/Run-Buddy-2)
 
   ## Usage 
 
@@ -31,9 +33,7 @@
 
   ## Screenshots
 
-  ![Project Screenshot](/assets/images/screenshot.png)
-  ![Project Screenshot](/assets/images/screenshot2.png)
-  ![Project Screenshot](/assets/images/screenshot3.png)
+  ![Project Screenshot](https://raw.githubusercontent.com/MCX2code/Run-Buddy-2/ddb328163f2c44e989d47b730632b47f48ecf63f/Run-buddy-2.png)
 
   ## Questions?
 
@@ -50,7 +50,7 @@
   
   #### MIT License
 
-      Copyright (c) 2020 cullinans1
+      Copyright (c) 2020 maxanoor
 
       Permission is hereby granted, free of charge, to any person obtaining a copy
       of this software and associated documentation files (the "Software"), to deal
