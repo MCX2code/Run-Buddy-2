@@ -21,7 +21,7 @@
   Open the HTML file in default browser to see the webpage.
   To run this on your own computer you can copy the repo at 
   
- To use simply visit the live application at: 
+ To use simply visit the live application at:  <br>
   [![Use this template](https://img.shields.io/badge/Click-to_visit_website-2ea44f?style=for-the-badge)](https://mcx2code.github.io/Run-Buddy-2)
   
   ## Usage 
